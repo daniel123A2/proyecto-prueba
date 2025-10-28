@@ -35,7 +35,7 @@ Una vez que el proyecto esté ejecutándose, puedes probar las siguientes funcio
 • ■ Edición y eliminación de nota: Comprueba que las acciones actualicen la base de datos.
 ■ Sección para agregar imágenes
 
-Aquí puedes colocar capturas de pantalla del funcionamiento del proyecto. Ejemplos:
+capturas de pantalla del funcionamiento del proyecto.
 • ■ ![Registro funcionando](./imagenes/registro.png)
 • ■ ![login funcionando](./imagenes/login.png)
 • ■ ![pagina principal funcionando](./imagenes/paginaprincipal.png)
