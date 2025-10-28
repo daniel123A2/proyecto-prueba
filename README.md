@@ -41,5 +41,9 @@ Aquí puedes colocar capturas de pantalla del funcionamiento del proyecto. Ejemp
 • ■ ![pagina principal funcionando](./imagenes/paginaprincipal.png)
 • ■ ![server funcionando](./imagenes/cd%20server.png)
 • ■ ![client funcionando](./imagenes/cd%20client.png)
+
+■ Prueba postman
+[Descargar colección Postman](./postman/ProyectoPrueba.postman_collection.json)
+
 ■ Autor
 Proyecto creado por **Yahir Daniel García Peña**.
